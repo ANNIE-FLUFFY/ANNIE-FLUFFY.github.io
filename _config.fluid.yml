@@ -995,7 +995,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/banner3.jpg
+  banner_img: /img/friend.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   # 友链的成员项
@@ -1005,7 +1005,7 @@ links:
         title: "Sidi's Blog",
         intro: "Sidi的技术博客",
         link: "https://sidiexplore.xyz",
-        avatar: "/img/page.png"
+        avatar: "/img/SIDI.jpg"
     }
     - {
       title: "Fluid Blog",
